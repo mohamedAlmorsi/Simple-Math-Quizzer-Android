@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math Quizzer</string>
+    <string name="action_settings">About The Game</string>
+    <string name="rules"> These are the Rules of the game :-
+        you have different levels and each level , you have some questions
+        every correct answer , you get points
+        if you answered the correct answer not from the first time , for each time your points decrease
+        after each level you will be directly going to the next level
+        IF YOU AGREE , PRESS START
+    </string>
+
+</resources>
